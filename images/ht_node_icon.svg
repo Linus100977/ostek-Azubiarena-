@@ -1,0 +1,12 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <g id="highlight">
+  <circle cx="32" cy="32" r="27" style="fill:#4d4d4d"/>
+ </g>
+ <g data-name="quadrato centratore" id="quadrato_centratore">
+  <rect height="64" style="fill:none" width="64"/>
+ </g>
+ <g id="icona">
+  <circle cx="32" cy="32" r="16" style="fill:none;stroke:#e6e6e6;stroke-miterlimit:10;stroke-width:2px"/>
+  <circle cx="32" cy="32" r="1.33" style="fill:none;stroke:#e6e6e6;stroke-miterlimit:10;stroke-width:2px"/>
+ </g>
+</svg>

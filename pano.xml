@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22707" appversion="8.0.7" hassounds="1" start="node7">
+  <panorama id="node12">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="236.80" author="" capturedatetime="2026-10-08T12:26:58" comment="" copyright="" customnodeid="" datetime="08.10.26 12:26" description="" heading="0" hideinlist="0" info="" latitude="50.88605556" longitude="14.81852778" nodeid="node12" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_122652_00_225.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="96.9062" pan="-23.363" projection="4" tilt="2.53707"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="21.656" id="Point01" pan="-4.11" skinid="ht_node" target="72.2/-0.5/100.0" tilt="-6.52" title="DCIM\Camera01\IMG_20261008_122447_00_223.ins" url="{node10}"/>
+      <hotspot description="" distance="9.46858" id="Point02" pan="-141.13" skinid="ht_node" target="-173.5/0.7/100.0" tilt="-8.03" title="DCIM\Camera01\IMG_20261008_122612_00_224.ins" url="{node11}"/>
+      <hotspot description="Auf dem Ausbildungsgelände ist bald Platz für Neues. Seid gespannt, was an dieser Stelle entsteht!" id="Point03" pan="-109.21" skinid="ht_info" target="" tilt="-4.74" title="Hier ensteht etwas Neues " url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="234.80" author="" capturedatetime="2026-10-08T12:26:19" comment="" copyright="" customnodeid="" datetime="08.10.26 12:26" description="" heading="0" hideinlist="0" info="" latitude="50.88613889" longitude="14.81855556" nodeid="node11" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_122612_00_224.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="9.46858" id="Point01" pan="-14.04" skinid="ht_node" target="13.1/3.3/96.9" tilt="-7.5" title="DCIM\Camera01\IMG_20261008_122652_00_225.ins" url="{node12}"/>
+      <hotspot description="Auf dem Ausbildungsgelände ist bald Platz für Neues. Seid gespannt, was an dieser Stelle entsteht!" id="Point02" pan="-122.32" skinid="ht_info" target="" tilt="-7.35" title="Hier ensteht etwas Neues" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="234.90" author="" capturedatetime="2026-10-08T12:24:54" comment="" copyright="" customnodeid="" datetime="08.10.26 12:24" description="" heading="0" hideinlist="0" info="" latitude="50.88608333" longitude="14.81822222" nodeid="node10" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_122447_00_223.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="96.9062" pan="70.4858" projection="4" tilt="2.63612"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="21.656" id="Point01" pan="-100.9" skinid="ht_node" target="164.7/-2.6/96.9" tilt="-5.92" title="DCIM\Camera01\IMG_20261008_122652_00_225.ins" url="{node12}"/>
+      <hotspot description="" distance="13.6682" id="Point02" pan="65.09" skinid="ht_node" target="170.1/1.6/100.0" tilt="-9.35" title="DCIM\Camera01\IMG_20261008_121004_00_211.ins" url="{node1}"/>
+      <hotspot description="" distance="13.6682" id="Point03" pan="85.03" skinid="ht_node" target="35.3/-1.1/100.0" tilt="-9.34" title="DCIM\Camera01\IMG_20261008_121039_00_212.ins" url="{node2}"/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point04" pan="109.65" skinid="ht_info" target="" tilt="-8.08" title="Materiallager" url=""/>
+      <hotspot description="" id="Point05" pan="73.8" skinid="ht_video_file" target="" tilt="-6.62" title="" url="media/IMG_1164.mov"/>
+      <hotspot description="" distance="27.8399" id="Point09" pan="70.66" skinid="ht_node" target="57.0/-3.3/100.0" tilt="-1.58" title="DCIM\Camera01\IMG_20261008_121224_00_215.ins" url="{node5}"/>
+      <hotspot description="" distance="27.8399" id="Point10" pan="54.46" skinid="ht_node" target="-113.4/-3.4/100.0" tilt="-3.01" title="DCIM\Camera01\IMG_20261008_121144_00_214.ins" url="{node4}"/>
+      <hotspot description="" distance="26.5622" id="Point11" pan="81.93" skinid="ht_node" target="101.3/0.8/100.0" tilt="-4.06" title="DCIM\Camera01\IMG_20261008_121113_00_213.ins" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="234.60" author="" capturedatetime="2026-10-08T12:10:10" comment="" copyright="" customnodeid="" datetime="08.10.26 12:10" description="" heading="0" hideinlist="0" info="" latitude="50.88619444" longitude="14.81830556" nodeid="node1" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_121004_00_211.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point02" pan="-92.04" skinid="ht_node" target="98.4/3.6/100.0" tilt="-28.4" title="DCIM\Camera01\IMG_20261008_121039_00_212.ins" url="{node2}"/>
+      <hotspot description="" distance="13.6682" id="Point01" pan="-7.84" skinid="ht_node" target="-112.7/-1.5/96.9" tilt="-9.35" title="DCIM\Camera01\IMG_20261008_122447_00_223.ins" url="{node10}"/>
+      <hotspot description="Wenn es auf dem Übungsgelände praktisch wird, kommt der Inhalt dieser silbernen Metallkiste zum Einsatz. Hier lagert das Werkzeug, mit dem die Auszubildenden ihre Übungen durchführen und die gelernten Arbeitsschritte selbst ausprobieren." id="Point03" pan="-84.25" skinid="ht_info" target="" tilt="-3.94" title="Werkzeugkiste" url=""/>
+      <hotspot description="" distance="12.9559" id="Point04" pan="-151.77" skinid="ht_node" target="100.5/-2.6/100.0" tilt="-7.72" title="DCIM\Camera01\IMG_20261008_121113_00_213.ins" url="{node3}"/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point05" pan="-63.89" skinid="ht_info" target="" tilt="-8.88" title="Materiallager " url=""/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point06" pan="83.99" skinid="ht_info" target="" tilt="-8.27" title="Materiallager" url=""/>
+      <hotspot description="" distance="14.9183" id="Point07" pan="149.66" skinid="ht_node" target="-151.0/-4.8/100.0" tilt="-7" title="DCIM\Camera01\IMG_20261008_121144_00_214.ins" url="{node4}"/>
+      <hotspot description="" id="Point08" pan="-155.76" skinid="ht_video_file" target="" tilt="-18.88" title="" url="media/IMG_1164.mov"/>
+      <hotspot description="" distance="14.9183" id="Point10" pan="-175.02" skinid="ht_node" target="35.8/-2.1/100.0" tilt="-4.86" title="DCIM\Camera01\IMG_20261008_121224_00_215.ins" url="{node5}"/>
+      <hotspot description="" id="Point11" pan="-179.91" skinid="ht_video_file" target="" tilt="-6.35" title="" url=""/>
+      <hotspot description="" distance="10.0532" id="Point13" pan="-127.8" skinid="ht_node" target="-25.3/2.3/100.0" tilt="-6.01" title="DCIM\Camera01\IMG_20261008_121351_00_217.ins" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="233.70" author="" capturedatetime="2026-10-08T12:10:46" comment="" copyright="" customnodeid="" datetime="08.10.26 12:10" description="" heading="0" hideinlist="0" info="" latitude="50.88619444" longitude="14.81830556" nodeid="node2" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_121039_00_212.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="Wenn es auf dem Übungsgelände praktisch wird, kommt der Inhalt dieser silbernen Metallkiste zum Einsatz. Hier lagert das Werkzeug, mit dem die Auszubildenden ihre Übungen durchführen und die gelernten Arbeitsschritte selbst ausprobieren." id="Point01" pan="112.1" skinid="ht_info" target="" tilt="-6.89" title="Werkzeugkiste" url=""/>
+      <hotspot description="" id="Point02" pan="-80.72" skinid="ht_node" target="93.3/1.2/100.0" tilt="-26.81" title="DCIM\Camera01\IMG_20261008_121004_00_211.ins" url="{node1}"/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point03" pan="148.72" skinid="ht_info" target="" tilt="-12.84" title="Materiallager " url=""/>
+      <hotspot description="Hier findest du Steine und weitere Materialien für deine praktischen Aufgaben in der Ausbildung." id="Point04" pan="-91.04" skinid="ht_info" target="" tilt="-5.94" title="Materiallager" url=""/>
+      <hotspot description="" distance="13.6682" id="Point05" pan="-155.44" skinid="ht_node" target="-96.6/2.6/96.9" tilt="-10.25" title="DCIM\Camera01\IMG_20261008_122447_00_223.ins" url="{node10}"/>
+      <hotspot description="" distance="14.9183" id="Point06" pan="-35.46" skinid="ht_node" target="-156.3/2.0/100.0" tilt="-5.84" title="DCIM\Camera01\IMG_20261008_121144_00_214.ins" url="{node4}"/>
+      <hotspot description="" distance="14.9183" id="Point07" pan="-1.62" skinid="ht_node" target="8.2/1.3/100.0" tilt="-4.28" title="DCIM\Camera01\IMG_20261008_121224_00_215.ins" url="{node5}"/>
+      <hotspot description="" distance="12.9559" id="Point08" pan="20.45" skinid="ht_node" target="70.4/4.8/100.0" tilt="-10.71" title="DCIM\Camera01\IMG_20261008_121113_00_213.ins" url="{node3}"/>
+      <hotspot description="" distance="10.0532" id="Point09" pan="55.15" skinid="ht_node" target="-11.8/-0.7/100.0" tilt="-6.55" title="DCIM\Camera01\IMG_20261008_121351_00_217.ins" url="{node7}"/>
+      <hotspot description="" id="Point11" pan="-13.48" skinid="ht_video_file" target="" tilt="-22.19" title="" url="media/IMG_1164.mov"/>
+      <hotspot description="" id="Point13" pan="-10.58" skinid="ht_video_file" target="" tilt="-6.58" title="" url="media/IMG_1171.mov"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="234.70" author="" capturedatetime="2026-10-08T12:11:20" comment="" copyright="" customnodeid="" datetime="08.10.26 12:11" description="" heading="0" hideinlist="0" info="" latitude="50.88630556" longitude="14.81836111" nodeid="node3" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_121113_00_213.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="12.9559" id="Point01" pan="-89.56" skinid="ht_node" target="27.4/0.8/100.0" tilt="-9.82" title="DCIM\Camera01\IMG_20261008_121004_00_211.ins" url="{node1}"/>
+      <hotspot description="" distance="12.9559" id="Point02" pan="-108.71" skinid="ht_node" target="-159.2/-1.3/100.0" tilt="-8.92" title="DCIM\Camera01\IMG_20261008_121039_00_212.ins" url="{node2}"/>
+      <hotspot description="" distance="26.5622" id="Point03" pan="-101.91" skinid="ht_node" target="-76.5/3.8/96.9" tilt="-4.86" title="DCIM\Camera01\IMG_20261008_122447_00_223.ins" url="{node10}"/>
+      <hotspot description="" distance="8.38401" id="Point04" pan="160.73" skinid="ht_node" target="15.9/1.5/100.0" tilt="-14.46" title="DCIM\Camera01\IMG_20261008_121351_00_217.ins" url="{node7}"/>
+      <hotspot description="" distance="8.38401" id="Point05" pan="35.31" skinid="ht_node" target="14.6/-1.3/100.0" tilt="-9.2" title="DCIM\Camera01\IMG_20261008_121224_00_215.ins" url="{node5}"/>
+      <hotspot description="" distance="8.38401" id="Point06" pan="-23.29" skinid="ht_node" target="-176.0/-2.3/100.0" tilt="-9.42" title="DCIM\Camera01\IMG_20261008_121144_00_214.ins" url="{node4}"/>
+      <hotspot description="" distance="8.38401" id="Point07" pan="101.4" skinid="ht_node" target="45.1/-4.3/100.0" tilt="-9.09" title="DCIM\Camera01\IMG_20261008_121313_00_216.ins" url="{node6}"/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point08" pan="-72.58" skinid="ht_info" target="" tilt="-4.6" title="Materiallager" url=""/>
+      <hotspot description="Wenn es auf dem Übungsgelände praktisch wird, kommt der Inhalt dieser silbernen Metallkiste zum Einsatz. Hier lagert das Werkzeug, mit dem die Auszubildenden ihre Übungen durchführen und die gelernten Arbeitsschritte selbst ausprobieren." id="Point09" pan="-139.91" skinid="ht_info" target="" tilt="-4.67" title="Werkzeugkiste" url=""/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point10" pan="-123.64" skinid="ht_info" target="" tilt="-5.1" title="Materiallager" url=""/>
+      <hotspot description="" id="Point12" pan="9.19" skinid="ht_video_file" target="" tilt="-11.98" title="" url="media/IMG_1171.mov"/>
+      <hotspot description="" id="Point13" pan="-77.14" skinid="ht_video_file" target="" tilt="-9.41" title="" url="media/IMG_1164.mov"/>
+      <hotspot description="" id="Point14" pan="-86.76" skinid="ht_video_file" target="" tilt="-24.28" title="" url="media/IMG_1164.mov"/>
+      <hotspot description="" distance="5.84548" id="Point15" pan="171.58" skinid="ht_node" target="-126.4/4.0/100.0" tilt="-5.03" title="DCIM\Camera01\IMG_20261008_121431_00_218.ins" url="{node8}"/>
+      <hotspot description="" id="Point16" pan="153.46" skinid="ht_video_file" target="" tilt="-4.37" title="" url="media/IMG_1181.mov"/>
+      <hotspot description="" id="Point17" pan="172.52" skinid="ht_info" target="" tilt="-11.72" title="" url=""/>
+      <hotspot description="" distance="6.61147" id="Point18" pan="94.4" skinid="ht_node" target="-168.0/7.3/100.0" tilt="-6.29" title="DCIM\Camera01\IMG_20261008_121530_00_219.ins" url="{node9}"/>
+      <hotspot description="" id="Point11" pan="132.87" skinid="ht_video_file" target="" tilt="-2.96" title="" url="media/IMG_1179.mov"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="234.10" author="" capturedatetime="2026-10-08T12:13:58" comment="" copyright="" customnodeid="" datetime="08.10.26 12:13" description="" heading="0" hideinlist="0" info="" latitude="50.88627778" longitude="14.81825000" nodeid="node7" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_121351_00_217.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="111.23" skinid="ht_info" target="" tilt="-33.59" title="" url=""/>
+      <hotspot description="" id="Point03" pan="163.39" skinid="ht_video_file" target="" tilt="-10.81" title="" url="media/IMG_1164.mov"/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point04" pan="156.18" skinid="ht_info" target="" tilt="-2.07" title="Materiallager" url=""/>
+      <hotspot description="" id="Point05" pan="-159.03" skinid="ht_video_file" target="" tilt="-6.52" title="" url="media/IMG_1171.mov"/>
+      <hotspot description="" distance="8.38401" id="Point07" pan="179.77" skinid="ht_node" target="-35.0/4.7/100.0" tilt="-15.52" title="DCIM\Camera01\IMG_20261008_121113_00_213.ins" url="{node3}"/>
+      <hotspot description="" distance="15.5884" id="Point08" pan="-141.5" skinid="ht_node" target="-5.9/-1.1/100.0" tilt="-5.58" title="DCIM\Camera01\IMG_20261008_121224_00_215.ins" url="{node5}"/>
+      <hotspot description="" distance="15.5884" id="Point09" pan="-171.35" skinid="ht_node" target="-180.0/-2.9/100.0" tilt="-4.77" title="DCIM\Camera01\IMG_20261008_121144_00_214.ins" url="{node4}"/>
+      <hotspot description="" distance="3.65232" id="Point10" pan="34.47" skinid="ht_node" target="-108.1/0.6/100.0" tilt="-7.66" title="DCIM\Camera01\IMG_20261008_121431_00_218.ins" url="{node8}"/>
+      <hotspot description="" id="Point11" pan="5.62" skinid="ht_video_file" target="" tilt="-8.51" title="" url="media/IMG_1181.mov"/>
+      <hotspot description="" distance="15.5884" id="Point12" pan="-92.49" skinid="ht_node" target="-14.8/-3.0/100.0" tilt="-14.25" title="DCIM\Camera01\IMG_20261008_121313_00_216.ins" url="{node6}"/>
+      <hotspot description="" distance="13.6397" id="Point13" pan="-89.2" skinid="ht_node" target="157.9/2.0/100.0" tilt="-8.69" title="DCIM\Camera01\IMG_20261008_121530_00_219.ins" url="{node9}"/>
+      <hotspot description="" distance="10.0532" id="Point15" pan="145.79" skinid="ht_node" target="64.5/-2.9/100.0" tilt="-5.58" title="DCIM\Camera01\IMG_20261008_121004_00_211.ins" url="{node1}"/>
+      <hotspot description="" distance="10.0532" id="Point16" pan="137.38" skinid="ht_node" target="-127.5/2.3/100.0" tilt="-7.8" title="DCIM\Camera01\IMG_20261008_121039_00_212.ins" url="{node2}"/>
+      <hotspot description="" id="Point06" pan="-132.48" skinid="ht_video_file" target="" tilt="-12.97" title="" url="media/IMG_1161.mov"/>
+      <hotspot description="" id="Point14" pan="-29.29" skinid="ht_video_file" target="" tilt="-6.22" title="" url="media/IMG_1179.mov"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="234.20" author="" capturedatetime="2026-10-08T12:11:51" comment="" copyright="" customnodeid="" datetime="08.10.26 12:11" description="" heading="0" hideinlist="0" info="" latitude="50.88627778" longitude="14.81847222" nodeid="node4" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_121144_00_214.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point03" pan="23.54" skinid="ht_video_file" target="" tilt="-13.84" title="" url="media/IMG_1164.mov"/>
+      <hotspot description="Wenn es auf dem Übungsgelände praktisch wird, kommt der Inhalt dieser silbernen Metallkiste zum Einsatz. Hier lagert das Werkzeug, mit dem die Auszubildenden ihre Übungen durchführen und die gelernten Arbeitsschritte selbst ausprobieren." id="Point04" pan="23.39" skinid="ht_info" target="" tilt="-2.68" title="Werkzeugkiste" url=""/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point05" pan="81.49" skinid="ht_info" target="" tilt="-5.88" title="Materiallager" url=""/>
+      <hotspot description="" id="Point06" pan="-3.14" skinid="ht_info" target="" tilt="-5.24" title="" url=""/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point07" pan="37.08" skinid="ht_info" target="" tilt="-2.89" title="Materiallager" url=""/>
+      <hotspot description="" distance="14.9183" id="Point08" pan="51.94" skinid="ht_node" target="-29.0/4.4/100.0" tilt="-9.52" title="DCIM\Camera01\IMG_20261008_121004_00_211.ins" url="{node1}"/>
+      <hotspot description="" distance="14.9183" id="Point09" pan="36.76" skinid="ht_node" target="160.5/0.8/100.0" tilt="-9.01" title="DCIM\Camera01\IMG_20261008_121039_00_212.ins" url="{node2}"/>
+      <hotspot description="" distance="27.8399" id="Point10" pan="59.36" skinid="ht_node" target="-114.6/-0.3/96.9" tilt="-3.76" title="DCIM\Camera01\IMG_20261008_122447_00_223.ins" url="{node10}"/>
+      <hotspot description="" id="Point11" pan="-73.4" skinid="ht_node" target="71.9/1.1/100.0" tilt="-13.04" title="DCIM\Camera01\IMG_20261008_121224_00_215.ins" url="{node5}"/>
+      <hotspot description="" id="Point12" pan="-52.53" skinid="ht_video_file" target="" tilt="-20.36" title="" url="media/IMG_1171.mov"/>
+      <hotspot description="" id="Point13" pan="-38.85" skinid="ht_node" target="75.4/5.0/100.0" tilt="-7.17" title="DCIM\Camera01\IMG_20261008_121313_00_216.ins" url="{node6}"/>
+      <hotspot description="" distance="1.94873" id="Point14" pan="-49.81" skinid="ht_node" target="-142.6/2.1/100.0" tilt="-5.92" title="DCIM\Camera01\IMG_20261008_121530_00_219.ins" url="{node9}"/>
+      <hotspot description="" distance="8.38401" id="Point15" pan="-8.32" skinid="ht_node" target="149.4/2.2/100.0" tilt="-12.3" title="DCIM\Camera01\IMG_20261008_121113_00_213.ins" url="{node3}"/>
+      <hotspot description="" distance="15.5884" id="Point16" pan="-9.48" skinid="ht_node" target="10.9/1.8/100.0" tilt="-6.93" title="DCIM\Camera01\IMG_20261008_121351_00_217.ins" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="234.30" author="" capturedatetime="2026-10-08T12:12:31" comment="" copyright="" customnodeid="" datetime="08.10.26 12:12" description="" heading="0" hideinlist="0" info="" latitude="50.88627778" longitude="14.81847222" nodeid="node5" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_121224_00_215.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-148.52" skinid="ht_video_file" target="" tilt="-30.99" title="" url="media/IMG_1171.mov"/>
+      <hotspot description="" id="Point02" pan="-121.08" skinid="ht_node" target="121.5/-7.5/100.0" tilt="-11.48" title="DCIM\Camera01\IMG_20261008_121144_00_214.ins" url="{node4}"/>
+      <hotspot description="" distance="8.38401" id="Point03" pan="168.39" skinid="ht_node" target="-143.5/4.2/100.0" tilt="-12.63" title="DCIM\Camera01\IMG_20261008_121113_00_213.ins" url="{node3}"/>
+      <hotspot description="" id="Point04" pan="115.38" skinid="ht_node" target="96.3/-2.8/100.0" tilt="-11.18" title="DCIM\Camera01\IMG_20261008_121313_00_216.ins" url="{node6}"/>
+      <hotspot description="" distance="1.94873" id="Point05" pan="90.79" skinid="ht_node" target="-133.8/-0.6/100.0" tilt="-7.93" title="DCIM\Camera01\IMG_20261008_121530_00_219.ins" url="{node9}"/>
+      <hotspot description="" id="Point06" pan="69.08" skinid="ht_video_file" target="" tilt="-6.95" title="" url="media/IMG_1176.mov"/>
+      <hotspot description="" distance="14.9183" id="Point07" pan="-154.36" skinid="ht_node" target="1.6/-0.1/100.0" tilt="-6.37" title="DCIM\Camera01\IMG_20261008_121004_00_211.ins" url="{node1}"/>
+      <hotspot description="" distance="14.9183" id="Point08" pan="-165" skinid="ht_node" target="-163.6/1.3/100.0" tilt="-6.33" title="DCIM\Camera01\IMG_20261008_121039_00_212.ins" url="{node2}"/>
+      <hotspot description="" id="Point10" pan="155.93" skinid="ht_info" target="" tilt="-6.05" title="" url=""/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point12" pan="-135.54" skinid="ht_info" target="" tilt="-3.75" title="Materiallager" url=""/>
+      <hotspot description="Wenn es auf dem Übungsgelände praktisch wird, kommt der Inhalt dieser silbernen Metallkiste zum Einsatz. Hier lagert das Werkzeug, mit dem die Auszubildenden ihre Übungen durchführen und die gelernten Arbeitsschritte selbst ausprobieren." id="Point13" pan="177.06" skinid="ht_info" target="" tilt="-3.68" title="Werkzeugkiste" url=""/>
+      <hotspot description="" id="Point14" pan="-162.61" skinid="ht_video_file" target="" tilt="-10.55" title="" url="media/IMG_1164.mov"/>
+      <hotspot description="Hier befindet sich das Materiallager, in dem die Azubis Steine und andere Materialien für ihre praktischen Arbeiten finden." id="Point15" pan="-171.4" skinid="ht_info" target="" tilt="-3.5" title="Materiallager" url=""/>
+      <hotspot description="" distance="27.8399" id="Point16" pan="-159.29" skinid="ht_node" target="-109.4/-0.4/96.9" tilt="-3.95" title="DCIM\Camera01\IMG_20261008_122447_00_223.ins" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="235.70" author="" capturedatetime="2026-10-08T12:13:20" comment="" copyright="" customnodeid="" datetime="08.10.26 12:13" description="" heading="0" hideinlist="0" info="" latitude="50.88627778" longitude="14.81847222" nodeid="node6" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_121313_00_216.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="1.94873" id="Point01" pan="1.73" skinid="ht_node" target="161.6/-1.3/100.0" tilt="-17.88" title="DCIM\Camera01\IMG_20261008_121530_00_219.ins" url="{node9}"/>
+      <hotspot description="" id="Point02" pan="-95.17" skinid="ht_node" target="-49.6/-0.2/100.0" tilt="-9.03" title="DCIM\Camera01\IMG_20261008_121224_00_215.ins" url="{node5}"/>
+      <hotspot description="" id="Point03" pan="-121.36" skinid="ht_node" target="167.3/-9.9/100.0" tilt="-4.88" title="DCIM\Camera01\IMG_20261008_121144_00_214.ins" url="{node4}"/>
+      <hotspot description="" distance="8.38401" id="Point04" pan="-147.32" skinid="ht_node" target="-75.3/-1.4/100.0" tilt="-10.78" title="DCIM\Camera01\IMG_20261008_121113_00_213.ins" url="{node3}"/>
+      <hotspot description="" distance="15.5884" id="Point05" pan="162.26" skinid="ht_node" target="83.8/0.4/100.0" tilt="-13.17" title="DCIM\Camera01\IMG_20261008_121351_00_217.ins" url="{node7}"/>
+      <hotspot description="" distance="13.9851" id="Point06" pan="127.49" skinid="ht_node" target="-94.2/0.3/100.0" tilt="-4.56" title="DCIM\Camera01\IMG_20261008_121431_00_218.ins" url="{node8}"/>
+      <hotspot description="" id="Point08" pan="-115" skinid="ht_video_file" target="" tilt="-8.05" title="" url="media/IMG_1171.mov"/>
+      <hotspot description="" id="Point09" pan="113.08" skinid="ht_video_file" target="" tilt="-5.04" title="" url="media/IMG_1181.mov"/>
+      <hotspot description="" id="Point10" pan="-16.18" skinid="ht_video_file" target="" tilt="-5.48" title="" url="media/IMG_1176.mov"/>
+      <hotspot description="" id="Point11" pan="164.84" skinid="ht_info" target="" tilt="-7.26" title="" url=""/>
+      <hotspot description="" id="Point07" pan="90.25" skinid="ht_video_file" target="" tilt="-4.82" title="" url="media/IMG_1179.mov"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="234.80" author="" capturedatetime="2026-10-08T12:14:38" comment="" copyright="" customnodeid="" datetime="08.10.26 12:14" description="" heading="0" hideinlist="0" info="" latitude="50.88630556" longitude="14.81827778" nodeid="node8" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_121431_00_218.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.65232" id="Point01" pan="65.26" skinid="ht_node" target="-169.1/-0.1/100.0" tilt="-6.13" title="DCIM\Camera01\IMG_20261008_121351_00_217.ins" url="{node7}"/>
+      <hotspot description="" id="Point02" pan="128.9" skinid="ht_video_file" target="" tilt="-18.78" title="" url="media/IMG_1181.mov"/>
+      <hotspot description="" id="Point03" pan="54.38" skinid="ht_info" target="" tilt="-3.93" title="" url=""/>
+      <hotspot description="" distance="13.9851" id="Point04" pan="81.49" skinid="ht_node" target="-43.2/-1.2/100.0" tilt="-4.3" title="DCIM\Camera01\IMG_20261008_121313_00_216.ins" url="{node6}"/>
+      <hotspot description="" id="Point05" pan="69.72" skinid="ht_video_file" target="" tilt="-0.74" title="" url="media/IMG_1161.mov"/>
+      <hotspot description="" id="Point07" pan="113" skinid="ht_video_file" target="" tilt="-3.77" title="" url="media/IMG_1179.mov"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
+      <level height="2976" predecode="0" preload="0" width="2976"/>
+      <level height="1488" predecode="0" preload="0" width="1488"/>
+      <level height="744" predecode="1" preload="1" width="744"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="234.60" author="" capturedatetime="2026-10-08T12:15:37" comment="" copyright="" customnodeid="" datetime="08.10.26 12:15" description="" heading="0" hideinlist="0" info="" latitude="50.88627778" longitude="14.81844444" nodeid="node9" source="" tags="NeuerOrdner" title="DCIM\Camera01\IMG_20261008_121530_00_219.ins"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="154.74" skinid="ht_video_file" target="" tilt="-7.97" title="" url="media/IMG_1176.mov"/>
+      <hotspot description="" id="Point02" pan="-9.01" skinid="ht_info" target="" tilt="-3.92" title="" url=""/>
+      <hotspot description="" distance="6.61147" id="Point03" pan="22.05" skinid="ht_node" target="-86.8/1.6/100.0" tilt="-6.35" title="DCIM\Camera01\IMG_20261008_121113_00_213.ins" url="{node3}"/>
+      <hotspot description="" distance="1.94873" id="Point04" pan="62.74" skinid="ht_node" target="-83.8/3.4/100.0" tilt="-5.95" title="DCIM\Camera01\IMG_20261008_121224_00_215.ins" url="{node5}"/>
+      <hotspot description="" distance="1.94873" id="Point05" pan="46.96" skinid="ht_node" target="123.7/2.5/100.0" tilt="-3.62" title="DCIM\Camera01\IMG_20261008_121144_00_214.ins" url="{node4}"/>
+      <hotspot description="" id="Point06" pan="49.76" skinid="ht_video_file" target="" tilt="-5.86" title="" url="media/IMG_1171.mov"/>
+      <hotspot description="" id="Point08" pan="-56.11" skinid="ht_video_file" target="" tilt="-5.81" title="" url="media/IMG_1181.mov"/>
+      <hotspot description="" distance="12.0922" id="Point09" pan="-40.05" skinid="ht_node" target="-62.1/-2.1/100.0" tilt="-5.42" title="DCIM\Camera01\IMG_20261008_121431_00_218.ins" url="{node8}"/>
+      <hotspot description="" distance="1.94873" id="Point10" pan="2.33" skinid="ht_node" target="-161.7/1.0/100.0" tilt="-26.07" title="DCIM\Camera01\IMG_20261008_121313_00_216.ins" url="{node6}"/>
+      <hotspot description="" distance="13.6397" id="Point11" pan="-12.13" skinid="ht_node" target="111.4/2.3/100.0" tilt="-8.84" title="DCIM\Camera01\IMG_20261008_121351_00_217.ins" url="{node7}"/>
+      <hotspot description="" id="Point07" pan="-73.68" skinid="ht_video_file" target="" tilt="-6.15" title="" url="media/IMG_1179.mov"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{b1d1926c-353e-4444-b8ae-d5e5b963c478}"/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="7" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+</tour>
